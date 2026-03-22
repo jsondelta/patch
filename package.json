@@ -1,6 +1,6 @@
 {
   "name": "@jsondelta/patch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zig-powered JSON patch application and delta inversion",
   "type": "module",
   "main": "./src/index.js",
